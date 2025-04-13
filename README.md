@@ -39,6 +39,7 @@ Replace your_openweathermap_api_key with your actual OpenWeatherMap API key.
 Start the backend server:
 npm start
 The backend will run on http://localhost:5000.
+
 3. Frontend Setup
 Navigate to the frontend directory (if separate, e.g., ./frontend):
 cd frontend
