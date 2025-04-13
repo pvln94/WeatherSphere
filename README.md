@@ -118,3 +118,9 @@ Support more input formats (e.g., city with state)
 
 # API
 ![Screenshot (75)](https://github.com/user-attachments/assets/37a79836-efe7-4cba-81d5-3051520bacd9)
+
+
+
+# Demo Video
+- Due to some reasons, voice is not recorded. But functionality is clearly explained. Kindly watch full video.
+[Demo](https://drive.google.com/file/d/1ZI9rmcSKMWkmEbSBgbLS7bUFsUxHwFbX/view?usp=sharing)
